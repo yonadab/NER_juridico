@@ -23,4 +23,4 @@ En algunas ocasiones, el modelo no es capaz de generalizar palabras compuestas c
 
 En un futuro se agregarán más clasificaciones jurídicas y se ampliarán los datos de entrenamiento para su mejora en la predicción
 
-*Notas de autor: El modelo pretende ser de utilidad y apoyo para textos jurídicos y la mejora de su comprensión. En ningún momento sustituye la actividad de un abogado o licenciado en el tema judicial.*
+*Notas de autor: El modelo pretende ser de utilidad y apoyo para textos jurídicos y la mejora de su comprensión. En ningún momento sustituye la actividad de un abogado o licenciado en el tema jurídico.*
