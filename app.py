@@ -134,13 +134,13 @@ st.sidebar.write('**Notas de autor**')
 st.sidebar.caption('_El modelo pretende ser de utilidad y apoyo para textos jurídicos y la mejora de su comprensión.\
                  En ningún momento sustituye la actividad de un abogado o licenciado en el tema judicial._')       
 
-st.sidebar.write('**______________________________________**')
+st.sidebar.write('**__________________________________**')
 st.sidebar.caption('Visita mi Github')
 
 github = st.sidebar.button('Ir a Github')
 
 if github:
     import webbrowser
-    webbrowser.open_new_tab('https://github.com/yonadab')
+    webbrowser.open_new('https://github.com/yonadab')
         
         
