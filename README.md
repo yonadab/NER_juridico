@@ -16,6 +16,8 @@ texto = 'artículo 102 del Código Fiscal de la Federación establece que comete
 utils.NER(texto)
 
 
+**Date una vuelta a streamlite cloud para ver su funcionamiento: https://yonadab-ner-juridico-app-ygtbyj.streamlit.app/**
+
 
 **Sobre el modelo:**
 
